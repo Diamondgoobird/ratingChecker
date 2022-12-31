@@ -1,0 +1,4 @@
+Config for ratingchecker
+
+Rating (Integer):
+0

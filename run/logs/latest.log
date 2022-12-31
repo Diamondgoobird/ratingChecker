@@ -1,0 +1,53 @@
+[12:47:40] [Client thread/INFO]: Setting user: Player553
+[12:47:42] [Client thread/INFO]: LWJGL Version: 2.9.4
+[12:47:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Rating Checker
+[12:47:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:47:46] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[12:47:46] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:47:46] [Thread-9/INFO]: OpenAL initialized.
+[12:47:46] [Sound Library Loader/INFO]: Sound engine started
+[12:47:49] [Client thread/INFO]: Created: 16x16 textures-atlas
+[12:47:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Rating Checker
+[12:47:50] [Client thread/INFO]: SoundSystem shutting down...
+[12:47:50] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:47:50] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:47:51] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[12:47:51] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:47:51] [Thread-11/INFO]: OpenAL initialized.
+[12:47:51] [Sound Library Loader/INFO]: Sound engine started
+[12:47:54] [Client thread/INFO]: Created: 512x512 textures-atlas
+[12:48:00] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[12:48:00] [Server thread/INFO]: Generating keypair
+[12:48:00] [Server thread/INFO]: Preparing start region for level 0
+[12:48:01] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:48:02] [Server thread/INFO]: Player553[local:E:ab87a677] logged in with entity id 372 at (231.66055748622173, 64.0, 411.53254641806984)
+[12:48:02] [Server thread/INFO]: Player553 joined the game
+[12:48:07] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[12:48:08] [Client thread/INFO]: [CHAT] §bPlease wait: §914.091§b seconds to try again.
+[12:48:10] [Client thread/INFO]: [CHAT] §bPlease wait: §912.605§b seconds to try again.
+[12:48:12] [Client thread/INFO]: [CHAT] §bPlease wait: §910.686§b seconds to try again.
+[12:48:13] [Client thread/INFO]: [CHAT] §bPlease wait: §99.33§b seconds to try again.
+[12:48:14] [Client thread/INFO]: [CHAT] §bPlease wait: §97.926§b seconds to try again.
+[12:48:17] [Server thread/INFO]: Saving and pausing game...
+[12:48:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:48:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:48:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:48:21] [Client thread/INFO]: Using default channel type
+[12:48:21] [Client thread/INFO]: Started on 50742
+[12:48:21] [Client thread/INFO]: [CHAT] Local game hosted on port 50742
+[12:48:23] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[12:48:23] [Server thread/INFO]: [Player553: Set own game mode to Creative Mode]
+[12:48:23] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[12:48:42] [Client thread/INFO]: Stopping!
+[12:48:42] [Client thread/INFO]: SoundSystem shutting down...
+[12:48:42] [Server thread/INFO]: Stopping server
+[12:48:42] [Server thread/INFO]: Saving players
+[12:48:42] [Server thread/INFO]: Saving worlds
+[12:48:42] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:48:42] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:48:42] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:48:42] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:48:42] [Client Shutdown Thread/INFO]: Stopping server
+[12:48:42] [Client Shutdown Thread/INFO]: Saving players
+[12:48:42] [Client Shutdown Thread/INFO]: Saving worlds
+[12:48:42] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Overworld
